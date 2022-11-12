@@ -104,7 +104,10 @@ function App() {
               <button>Cars</button>
               <button>Top Secret</button>
             </div>
-            <a href="/" className="fingerprint">
+            <a
+              href="https://github.com/J-P-Walter/Spy-wares"
+              className="fingerprint"
+            >
               <IoMdFingerPrint />
             </a>
           </div>
