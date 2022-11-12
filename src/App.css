@@ -230,6 +230,7 @@ button:active {
   }
   .landing {
     align-items: flex-start;
+    height: 20%;
   }
   .seen {
     justify-content: start;
