@@ -224,4 +224,8 @@ button:active {
   .wrapper > h1 {
     font-size: 3vh;
   }
+  .fingerprint {
+    padding-top: 1rem;
+    font-size: 60px;
+  }
 }
