@@ -8,7 +8,6 @@ function App() {
   // const [background, setBackground] = React.useState("");
 
   function update(e) {
-    console.log(e);
     var x = e.clientX || e.touches[0].clientX;
     var y = e.clientY || e.touches[0].clientY;
 
@@ -39,9 +38,9 @@ function App() {
             <div>
               there is m
               <span>
-                <div class="eye" onClick={handleClick}>
-                  <div class="shut"></div>
-                  <div class="ball"></div>
+                <div className="eye" onClick={handleClick}>
+                  <div className="shut"></div>
+                  <div className="ball"></div>
                 </div>
                 o
               </span>
