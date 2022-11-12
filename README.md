@@ -1,4 +1,4 @@
-Fun project that focused in some small animations, as well as trying to create a "feel" for this website, rather than it just be a website. Also got some practice makeing it somewhat reactive to changing screen sizes. You can find the live version of it [here](https://spy-ware.netlify.app/)
+Fun project I grinding in an afternoon that focused in some small animations, as well as trying to create a "feel" for this website, rather than it just be a website. Also got some practice makeing it somewhat reactive to changing screen sizes. You can find the live version of it [here](https://spy-ware.netlify.app/)
 
 # Getting Started with Create React App
 

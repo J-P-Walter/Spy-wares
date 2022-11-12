@@ -228,4 +228,10 @@ button:active {
     padding-top: 1rem;
     font-size: 60px;
   }
+  .landing {
+    align-items: flex-start;
+  }
+  .seen {
+    justify-content: start;
+  }
 }
