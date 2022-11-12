@@ -1,3 +1,5 @@
+Fun project that focused in some small animations, as well as trying to create a "feel" for this website, rather than it just be a website. Also got some practice makeing it somewhat reactive to changing screen sizes. You can find the live version of it [here](https://spy-ware.netlify.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,4 +70,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
 # Spy-wares
